@@ -1,22 +1,21 @@
-## Hi there 👋
+# 💫 Hi 👋, I'm Fida Hussain
+**A passionate Front-End Developer || Angular Enthusiast from Pakistan**
 
-<!--
-**Fida-H/Fida-H** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 **I’m currently working on:** Building a Todo App with Angular & Material  
+- 🌱 **I’m currently learning:** Angular, TypeScript, and Modern Web Development  
+- 👯 **I’m looking to collaborate on:** Web Development & Open-Source Projects  
+- 🤔 **I’m looking for help with:** Best practices in Angular and scalable front-end architecture  
+- 💬 **Ask me about:** JavaScript, Angular, Front-End Development  
+- ⚡ **Fun fact:** I love turning ideas into responsive and interactive web apps ✨  
 
-Here are some ideas to get you started:
+## 🔗 I am a Learner & Web Developer. 😊😊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Fida-H&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-
-
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Fida Hussain) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Fìðà HûXâîn) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/fida.huxain)  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Fida H) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fidafidai4535@gmail.com) 
@@ -28,8 +27,7 @@ Here are some ideas to get you started:
 ![](https://nirzak-streak-stats.vercel.app/?user=Fida-H&theme=gotham&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Fida-H&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Fida-H&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
